@@ -17,16 +17,28 @@ Create a simple and modern web-based interface for user interaction.
 🧠 Technologies Used
 ---
 Frontend
+
 HTML5
+
 CSS3
+
 JavaScript
+
 Backend
+
 Node.js / Express.js (or any backend used in your project)
+
 NLP / Chatbot Framework
+
 Rasa NLP
+
 NLU training data
+
+
 Other Tools
+
 Git & GitHub
+
 VS Code
 
 ⚙️ System Architecture
@@ -49,9 +61,13 @@ The chatbot returns the quote to the user.
 💡 Features
 ---
 ✔ Interactive chatbot interface
+
 ✔ NLP-based intent recognition
+
 ✔ Quote recommendations based on mood
+
 ✔ Multiple quote categories
+
 ✔ Easy to extend with more datasets
 
 📊 Example User Interactions
@@ -70,14 +86,17 @@ Chatbot: "Every day may not be good, but there is something good in every day."
 1️⃣ Clone the Repository
 git clone https://github.com/akanksha129345/QUOTES-RECOMMENDATION-CHATBOT-USING-NLP
 cd quotes-recommendation-chatbot
+
 2️⃣ Install Dependencies
 npm install
+
 3️⃣ Run Backend Server
 node server.js
+
 4️⃣ Start Rasa Server
 rasa run
-5️⃣ Open in Browser
 
+5️⃣ Open in Browser
 Open index.html in your browser.
 
 📈 Future Improvements

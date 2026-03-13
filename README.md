@@ -3,9 +3,9 @@
 
 The Quotes Recommendation Chatbot is an intelligent chatbot that recommends inspirational quotes to users based on their mood or query. The chatbot uses Natural Language Processing (NLP) techniques to understand user input and suggest relevant quotes such as motivational, love, success, happiness, or life quotes.
 The system is designed to simulate a conversational experience where users can ask for quotes related to specific emotions or topics. It helps users find meaningful and inspiring quotes quickly through a simple chat interface.
----
-🎯 Objectives
 
+🎯 Objectives
+---
 Build an interactive chatbot that recommends quotes.
 
 Use NLP techniques to understand user intent.
@@ -38,8 +38,9 @@ Other Tools
 Git & GitHub
 
 VS Code
----
+
 ⚙️ System Architecture
+---
 
 User → Web Interface → Backend Server → NLP Engine → Quote Dataset → Response to User
 
@@ -54,9 +55,9 @@ NLP model detects the intent (motivation, love, success, etc.).
 The system retrieves a relevant quote from the dataset.
 
 The chatbot returns the quote to the user.
----
-💡 Features
 
+💡 Features
+---
 ✔ Interactive chatbot interface
 ✔ NLP-based intent recognition
 ✔ Quote recommendations based on mood

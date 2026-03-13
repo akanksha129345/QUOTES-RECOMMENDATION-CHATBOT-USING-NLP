@@ -73,12 +73,15 @@ The chatbot returns the quote to the user.
 📊 Example User Interactions
 ---
 User: I need motivation
+
 Chatbot: "Success usually comes to those who are too busy to be looking for it."
 
 User: Give me a love quote
+
 Chatbot: "Love is composed of a single soul inhabiting two bodies."
 
 User: I feel sad
+
 Chatbot: "Every day may not be good, but there is something good in every day."
 
 🚀 Installation and Setup
